@@ -67,7 +67,6 @@
 </table>
 
 </div>
----
 
 
 ## 🎓 Teaching Highlights
