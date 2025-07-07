@@ -20,25 +20,28 @@
 
 ### 🛠️ Tech Stack
 
-<p align="left">
-  <img src="https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white" />
-  <img src="https://img.shields.io/badge/Laravel-E34F26?style=flat&logo=laravel&logoColor=white" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
+<p align="center">
+  <img src="https://img.shields.io/badge/-PHP-181717?style=for-the-badge&logo=php&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/-Laravel-E34F26?style=for-the-badge&logo=laravel&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <br><br>
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
 ---
 
-### 📊 GitHub Stats
+### 📊 GitHub Stats (PHP / Laravel Focused)
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-eid&show_icons=true&theme=radical" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-eid&layout=compact&theme=radical" width="48%" />
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohamed-eid&show_icons=true&theme=radical&hide_title=true&count_private=true&include_all_commits=true&custom_title=My%20Laravel%20+%20PHP%20Stats" width="90%" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamed-eid&layout=compact&theme=radical&langs_count=6" width="60%" />
 </p>
+
 
 ---
 
