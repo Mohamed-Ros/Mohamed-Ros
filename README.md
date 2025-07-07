@@ -70,11 +70,58 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Mohamed-Ros&show_icons=true&theme=tokyonight&hide_title=true&count_private=true&include_all_commits=true&custom_title=Development%20Journey" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohamed-Ros&layout=compact&theme=tokyonight&langs_count=8" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ros&theme=tokyonight" width="48%" />
 </div>
 
+## 💻 Programming Languages & Technologies
+
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mohamed-Ros&theme=tokyonight" width="60%" />
+  <table>
+    <tr>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" />
+        <br><strong>Advanced</strong>
+        <br><small>Backend Development</small>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
+        <br><strong>Expert</strong>
+        <br><small>Web Framework</small>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+        <br><strong>Advanced</strong>
+        <br><small>Database Management</small>
+      </td>
+      <td align="center" width="25%">
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
+        <br><strong>Intermediate</strong>
+        <br><small>Frontend Logic</small>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+        <br><strong>Advanced</strong>
+        <br><small>Markup Language</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
+        <br><strong>Advanced</strong>
+        <br><small>Styling & Design</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+        <br><strong>Expert</strong>
+        <br><small>System Administration</small>
+      </td>
+      <td align="center">
+        <img src="https://img.shields.io/badge/Shell_Script-4EAA25?style=for-the-badge&logo=gnu-bash&logoColor=white" />
+        <br><strong>Advanced</strong>
+        <br><small>Automation</small>
+      </td>
+    </tr>
+  </table>
 </div>
 
 ---
@@ -92,7 +139,7 @@
     <a href="https://github.com/Mohamed-Ros">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
     </a>
-    <a href="https://www.udemy.com/user/mohamed-eid/">
+    <a href="https://www.udemy.com/user/mohamed-eid-hussein-ahmed/">
       <img src="https://img.shields.io/badge/Udemy-A435F0?style=for-the-badge&logo=udemy&logoColor=white" />
     </a>
   </p>
@@ -102,30 +149,51 @@
 
 ## 🚀 Professional Highlights
 
-<div align="center">
-  <table>
-    <tr>
-      <td align="center">
-        <h4>💻 Backend Development</h4>
-        <p>Laravel Expert • RESTful APIs<br>Database Architecture • Performance Optimization</p>
-      </td>
-      <td align="center">
-        <h4>🖥️ System Administration</h4>
-        <p>Linux Systems • Server Management<br>DevOps Practices • Security Implementation</p>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <h4>🎓 Education & Training</h4>
-        <p>2,300+ Students Taught<br>Operating Systems Expert • Technical Mentoring</p>
-      </td>
-      <td align="center">
-        <h4>🚀 Innovation</h4>
-        <p>SaaS Development • E-commerce Solutions<br>Scalable Architecture Design</p>
-      </td>
-    </tr>
-  </table>
-</div>
+<table align="center" width="100%">
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/48/code.png" width="40"/>
+      <h4>💻 Backend Development</h4>
+      <p>
+        <strong>→ Laravel Expert</strong><br>
+        → RESTful APIs<br>
+        → Database Architecture<br>
+        → Performance Optimization
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/48/server.png" width="40"/>
+      <h4>🖥️ System Administration</h4>
+      <p>
+        → Linux Systems<br>
+        → Server Management<br>
+        → DevOps Practices<br>
+        → Security Implementation
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/48/training.png" width="40"/>
+      <h4>🎓 Education & Training</h4>
+      <p>
+        → 2,300+ Students Taught<br>
+        → Operating Systems Expert<br>
+        → Technical Mentoring
+      </p>
+    </td>
+    <td align="center" width="50%">
+      <img src="https://img.icons8.com/fluency/48/rocket.png" width="40"/>
+      <h4>🚀 Innovation</h4>
+      <p>
+        → SaaS Development<br>
+        → E-commerce Solutions<br>
+        → Scalable Architecture Design
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 ---
 
