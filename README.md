@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mohamed Eid</h1>
-<h3 align="center">🚀 Laravel Backend Developer & Udemy Instructor from Egypt</h3>
+<h3 align="center">🚀 Laravel Backend Developer & Ai Devloper & Udemy Instructor from Egypt</h3>
 
 <div align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohamed-Ros&label=Profile%20views&color=0e75b6&style=flat" alt="mohamed-eid" />
