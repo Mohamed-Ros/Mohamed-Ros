@@ -115,7 +115,13 @@
 - **CSS3** – Advanced  
 - **Linux** – Expert  
 - **Shell Scripting** – Advanced  
-
+- **Python** – Intermediate (for AI & ML)  
+- **AI / Machine Learning** – Intermediate  
+- **Deep Learning (Neural Networks)** – Intermediate  
+- **Data Analysis & Visualization** – Intermediate  
+- **Natural Language Processing (NLP)** – Beginner/Intermediate  
+- **Computer Vision (CV)** – Beginner/Intermediate  
+- **TensorFlow / PyTorch** – Beginner/Intermediate  
 ---
 
 ## 🌐 Let's Connect
