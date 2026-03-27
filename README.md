@@ -12,7 +12,7 @@
 - 🔭 Currently working on **SaaS Platforms, APIs, and E-commerce solutions**
 - 🎓 **Udemy Instructor** teaching **Operating Systems** to **2,300+ students**
 - 🌱 Learning **DevOps | Docker | System Security | Advanced Linux Administration**
-- 💬 Ask me about **Laravel, PHP, MySQL, REST APIs,ML and Deep learning **
+- 💬 Ask me about **Laravel, PHP, MySQL, REST APIs,ML and Deep learning**
 - 🚀 Passionate about turning business ideas into scalable, maintainable systems
 - 📫 Reach me: **mohamed_eid_hussin@hotmail.com**
 - 🌍 Based in: **Benisuef, Egypt**
