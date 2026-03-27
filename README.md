@@ -12,7 +12,7 @@
 - 🔭 Currently working on **SaaS Platforms, APIs, and E-commerce solutions**
 - 🎓 **Udemy Instructor** teaching **Operating Systems** to **2,300+ students**
 - 🌱 Learning **DevOps | Docker | System Security | Advanced Linux Administration**
-- 💬 Ask me about **Laravel, PHP, MySQL, REST APIs, Linux Systems, OS Architecture**
+- 💬 Ask me about **Laravel, PHP, MySQL, REST APIs,ML and Deep learning **
 - 🚀 Passionate about turning business ideas into scalable, maintainable systems
 - 📫 Reach me: **mohamed_eid_hussin@hotmail.com**
 - 🌍 Based in: **Benisuef, Egypt**
@@ -111,17 +111,17 @@
 - **Laravel** – Expert  
 - **MySQL** – Advanced  
 - **JavaScript** – Intermediate  
-- **HTML5** – Advanced  
-- **CSS3** – Advanced  
+- **HTML5** – Expert  
+- **CSS3** – Expert  
 - **Linux** – Expert  
-- **Shell Scripting** – Advanced  
-- **Python** – Intermediate (for AI & ML)  
-- **AI / Machine Learning** – Intermediate  
-- **Deep Learning (Neural Networks)** – Intermediate  
-- **Data Analysis & Visualization** – Intermediate  
-- **Natural Language Processing (NLP)** – Beginner/Intermediate  
-- **Computer Vision (CV)** – Beginner/Intermediate  
-- **TensorFlow / PyTorch** – Beginner/Intermediate  
+- **Shell Scripting** – Expert  
+- **Python** – Expert  
+- **AI / Machine Learning** – Advanced  
+- **Deep Learning (Neural Networks)** – Advanced  
+- **Data Analysis & Visualization** – Advanced  
+- **Natural Language Processing (NLP)** – Advanced 
+- **Computer Vision (CV)** – Advanced  
+- **TensorFlow / PyTorch** – Advanced  
 ---
 
 ## 🌐 Let's Connect
